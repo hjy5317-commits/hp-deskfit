@@ -1,0 +1,6 @@
+{
+  "name": "HP Deskfit",
+  "description": "AI-powered custom ergonomic desk setup planner and personal HP workstation workspace architect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
